@@ -5,7 +5,7 @@ with tags as (
     group by domain
 )
 
-select [HELLO TEST]
+select
    
 replace(replace(
         coalesce(
